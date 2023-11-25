@@ -1,0 +1,226 @@
+{
+  "navigation": {
+    "links": {
+      "one": "Hakkımızda",
+      "two": "Yönler",
+      "three": "Haber",
+      "four": "İhracat / İthalat",
+      "five": "Temaslar"
+    },
+    "subMenu1": {
+      "one": "Ticaret",
+      "two": "Üretim",
+      "three": "Danışmanlık"
+    },
+    "subMenu2": {
+      "one": "İhracat için FMCG kataloğu",
+      "two": "Alıcı için ithalat",
+      "three": "Tedarikçi için içe aktarma",
+      "four": "Fiyat listeleri",
+      "commercialOffer": "Ticari teklif"
+    },
+    "button": "Bize yaz"
+  },
+
+  "info": "Bilgi",
+
+  "watchButton": "Sahne detaylarını izle",
+  "downloadButton": "Sahne ındir",
+
+  "page": {
+    "main": {
+      "title": "TİCARET • DANIŞMANLIK • MALLARIN NAKLİYESİ",
+      "description": "FMCG sektörüne IMPERİAL Ltd olarak hizmet vermeye başladık, 2014 yılından bu yana katılımımızla eski şirketlerin deneyimlerinden yararlandık",
+      "button": "Kataloğa bakın"
+    },
+    "aboutUs": {
+      "title": "Hakkımızda",
+      "one": ", faaliyetlerini zengin deneyime ve güçlü uluslararası ticaret geleneklerine dayandıran aktif olarak gelişen bir ihracat-ithalat şirketidir.",
+      "two": "On yıllardır mal ihracatı ve ithalatı yönünde çalışan, bugün de devam eden, uluslararası ticaret, marka danışmanlığı ve pazarlamanın yanı sıra gıda üretimi alanında da genişleyen genç ama profesyonel ve iddialı bir firma olarak yola çıktık.",
+      "three": "2022 yılında (Gündelik Mallar) yeniden yapılanma yoluyla artan FMCG mal talebi ile büyümeyi ve bu alandaki ihtiyaçları karşılamayı hedefleyen bir şirket kurduk.",
+      "four": "Şirketimiz Ticaret Odası üyesidir ve ortak bir şirket aracılığıyla serbest ekonomik bölgede akredite edilmiştir.",
+      "five": "FMCG mallarının uluslararası tedariki alanında güvenilir, kaliteli ve hızlı hizmet sunarak siz değerli iş ortaklarımızla işbirliği yapmaktan her zaman mutluluk duyarız. İhracat / ithalat bölümünde görebileceğiniz ve talep üzerine bilgi alabileceğiniz geniş bir ürün yelpazesinin ticaretinde uzmanız.",
+      "six": "Ferrero, Mars, Nestle, Mondelez, Unilever, P & G, Perfetti Van Melle, Jacobs, Nescafe, Lavazza, Wrigley, Haribo, Storck, Coca-Cola ve diğer şirketler gibi üreticilerin ürünlerini FMCG markalı ürünlerimizde bulabilirsiniz. Diğer mal ve hizmetlerin ihracat ve ithalat yönü de vardır."
+    },
+    "trading": {
+      "title": "Ticaret",
+      "one": "Türkiye, dünya ticaret yollarının kesiştiği noktada stratejik olarak avantajlı bir konuma sahip olduğu için dünya ticareti açısından dünyanın en önemli ülkelerinden biridir.",
+      "two": "Çok eski zamanlardan beri, Büyük ipek Yolu Türkiye'den geçti, mallar dünyanın farklı ülkelerine teslim edildi 🌎",
+      "three": "İhracat / İthalat"
+    },
+    "production": {
+      "title": "Üretim",
+      "one": "Türk endüstrisi, Avrupalıların altındaki fiyatlarla Avrupa kalitesinde ürünler üretiyor ve bu da dünya ithalatçılarını buna çekiyor",
+      "two": "Şirketin planları, Türkiye'de konut ve konut dışı komplekslerin inşası ve gıda üretimi gibi diğer faaliyet alanlarını da geliştirmektir."
+    },
+    "consulting": {
+      "title": "Danışmanlık",
+      "one": "Türkiye topraklarından geçen malların lojistik optimizasyonu ve gümrükleme konularında danışmanlık hizmeti vermekteyiz.",
+      "two": "Tüm önemli yönleri biliyoruz :",
+      "three": "✅ türkiye'nin ithalat-ihracat mevzuatı",
+      "four": "✅ gümrükleme işlemlerinin özellikleri",
+      "five": "✅ türkiye ve diğer pazarların ihtiyaçları",
+      "six": "✅ ve diğer ülkelere en popüler ihracat destinasyonları",
+      "seven": "Uzmanlarımız, Türkiye'den / Türkiye'den herhangi bir malın ihracat-ithalat işlemleri ile ilgili tüm sorularınızı cevaplayacak ve Firmamız da sonuçlandırdığınız işlemlere nihai sonuçlarına kadar eşlik etmeye hazırdır.",
+      "eight": "Bize yaz",
+      "nine": "ve ücretsiz bir uzman tavsiyesi alın ✍🏻"
+    },
+    "exportImport": {
+      "title": "İhracat / İthalat",
+      "one": [
+        "Şirket",
+        " türkiye'den mal ticareti ve ihracatında sizin için güvenilir bir ortak olacak"
+      ],
+      "two": "En büyük Türk üreticilerinin resmi bayileri olarak hareket ederek, profesyonel ihracat hizmetleri sunmaya hazırız:",
+      "three": "✅ İhtiyaçlarınıza göre ürün seçimi",
+      "four": "Başvurunuza uygun olarak, gerekli mallar için çeşitli seçenekler seçeceğiz, fiyatlandırmayı karşılaştıracağız ve değerlendirilmek üzere size sunacağız",
+      "five": "✅ Kalite kontrol",
+      "six": "Bağımsız kalite denetçileri, ürünlerin kalitesinin gereksinimleri karşıladığından emin olmak için ihraç edilen ürünleri kontrol edecektir",
+      "seven": "✅ Numune gönderme",
+      "eight": "Ürüne olan ihtiyacı onayladıktan sonra size örnekler göndereceğiz, böylece gerçekten uygun kalitede olduğundan emin olabilirsiniz, kargo örneklerinin maliyeti müşteriye aittir",
+      "nine": "✅ Lojistik",
+      "ten": "Malların etkileşimi, yüklenmesi ve gönderilmesi için lojistik ve gümrük planlarının belirlenmesi",
+      "eleven": "✅ Karşılıklı yerleşimlerin optimal yöntem ve koşullarının seçimi",
+      "twelve": "Malzeme maliyetlerini optimize etmek için bireysel bir yaklaşım kullanıyoruz",
+      "fourteen": "✅ Ülkenizdeki uygun bir depoya teslimat",
+      "fiveteen": "Adresinizi belirtin ve teslimat maliyetini sizin için uygun bir noktaya hesaplayacağız"
+    },
+    "contact": {
+      "title": "Temaslar",
+      "one": "Yasal / Gerçek adres:",
+      "two": "Mahmutar mahallesi, st. Atatürk 26/12,\n 07400 Alanya/Antalya, Türkiye",
+      "three": "Telefon numarası:",
+      "four": "E-posta:",
+      "five": "Telegram'da kanal",
+      "fileName": "Imperial şirketinin detayları.pdf"
+    },
+    "writeUs": {
+      "title": "Bize yaz",
+      "description": "İsteğinizi veya ürün talebinizi yazın ve size 24 saat içinde cevap vereceğiz",
+      "form": {
+        "name": {
+          "title": "Soyadı Ad Göbek adı",
+          "placeholder": "Soyadı Ad Göbek adı"
+        },
+        "organization": {
+          "title": "Kuruluş",
+          "placeholder": "Kuruluş adı"
+        },
+        "phoneNumber": {
+          "title": "Telefon numarası",
+          "placeholder": "Telefon numarası"
+        },
+        "email": {
+          "title": "E-posta",
+          "placeholder": "E-posta"
+        },
+        "topic": {
+          "title": "Mesajın konusu",
+          "placeholder": "Bir tema seçin",
+          "topics": ["Ticaret", "Üretim", "Danışmanlık"]
+        },
+        "message": {
+          "title": "Mesaj",
+          "placeholder": "Mesajınız..."
+        },
+        "errors": {
+          "required": "Bu alan gereklidir",
+          "email": "E-posta yanlış",
+          "empty": "Alan boş olamaz"
+        },
+        "emailMessage": "İleti başarıyla gönderildi. Bir yanıt bekleyin",
+        "emailError": "Bir şeyler ters gitti",
+        "button": "Göndermek"
+      }
+    },
+    "catalog": {
+      "title": "FMCG Kataloğu",
+      "food-products": "Gıda",
+      "household-chemicals": "Ev kimyasalları",
+      "watch": "İzlemek",
+      "download": "İndirmek",
+      "food-products-title": "Gıda kataloğu",
+      "household-chemicals-title": "Ev kimyasalları kataloğu",
+      "commercialOffer": "Mehmet Efendi Kahvesinin Ticari Teklifi"
+    },
+    "priceLists": {
+      "title": "Fiyat listelerimiz",
+      "coffee": "Kahve"
+    }
+  },
+
+  "footer": "Tüm hakları saklıdır.",
+  "seo": {
+    "keywords": "ti̇caret, danişmanlik, mallarin nakli̇yesi̇, imperial",
+    "home": {
+      "title": "TİCARET • DANIŞMANLIK • MALLARIN NAKLİYESİ",
+      "description": "IMPERİAL LiMİTEd ŞiRKETi, faaliyetlerini zengin deneyime ve güçlü uluslararası ticaret geleneklerine dayandıran, aktif olarak gelişen bir ihracat-ithalat şirketidir. On yıllardır mal ihracatı ve ithalatı yönünde çalışan, bugün de devam eden, uluslararası ticaret, marka danışmanlığı ve pazarlamanın yanı sıra gıda üretimi alanında da genişleyen genç ama profesyonel ve iddialı bir firma olarak yola çıktık. 2022 yılında (Gündelik Mallar) yeniden yapılanma yoluyla artan FMCG mal talebi ile büyümeyi ve bu alandaki ihtiyaçları karşılamayı hedefleyen bir şirket kurduk. Şirketimiz Ticaret Odası üyesidir ve ortak bir şirket aracılığıyla serbest ekonomik bölgede akredite edilmiştir. FMCG mallarının uluslararası tedariki alanında güvenilir, kaliteli ve hızlı hizmet sunarak siz değerli iş ortaklarımızla işbirliği yapmaktan her zaman mutluluk duyarız. İhracat / ithalat bölümünde görebileceğiniz ve talep üzerine bilgi alabileceğiniz geniş bir ürün yelpazesinin ticaretinde uzmanız. Ferrero, Mars, Nestle, Mondelez, Unilever, P & G, Perfetti Van Melle, Jacobs, Nescafe, Lavazza, Wrigley, Haribo, Storck, Coca-Cola ve diğer şirketler gibi üreticilerin ürünlerini FMCG markalı ürünlerimizde bulabilirsiniz. Diğer mal ve hizmetlerin ihracat ve ithalat yönü de vardır."
+    },
+    "aboutUs": {
+      "title": "Hakkımızda"
+    },
+    "directions": {
+      "title": "Yönler",
+      "consulting": {
+        "title": "Danışmanlık",
+        "description": "Türkiye topraklarından geçen malların lojistik optimizasyonu ve gümrükleme konularında danışmanlık hizmeti vermekteyiz. Tüm önemli yönleri biliyoruz : ✅ türkiye'nin ithalat-ihracat mevzuatı ✅ gümrükleme işlemlerinin özellikleri ✅ türkiye ve diğer pazarların ihtiyaçları ✅ ve diğer ülkelere en popüler ihracat destinasyonları Uzmanlarımız, Türkiye'den / Türkiye'den herhangi bir malın ihracat-ithalat işlemleri ile ilgili tüm sorularınızı cevaplayacak ve Firmamız da sonuçlandırdığınız işlemlere nihai sonuçlarına kadar eşlik etmeye hazırdır."
+      },
+      "production": {
+        "title": "Üretim",
+        "description": "Türk endüstrisi, Avrupalıların altındaki fiyatlarla Avrupa kalitesinde ürünler üretiyor ve bu da dünya ithalatçılarını buna çekiyor. Şirketin planları, Türkiye'de konut ve konut dışı komplekslerin inşası ve gıda üretimi gibi diğer faaliyet alanlarını da geliştirmektir."
+      },
+      "trading": {
+        "title": "Ticaret",
+        "description": "Türkiye, dünya ticaret yollarının kesiştiği noktada stratejik olarak avantajlı bir konuma sahip olduğu için dünya ticareti açısından dünyanın en önemli ülkelerinden biridir. Çok eski zamanlardan beri, Büyük ipek Yolu Türkiye'den geçti, mallar dünyanın farklı ülkelerine teslim edildi 🌎"
+      }
+    },
+    "news": {
+      "title": "Haber",
+      "description": "Imperial şirket haberleri"
+    },
+    "exportImport": {
+      "title": "İhracat / İthalat",
+      "description": "Şirket IMPERIAL LiMiTED ŞiRKET türkiye'den mal ticareti ve ihracatında sizin için güvenilir bir ortak olacak En büyük Türk üreticilerinin resmi bayileri olarak hareket ederek, profesyonel ihracat hizmetleri sunmaya hazırız: ✅ İhtiyaçlarınıza göre ürün seçimi Başvurunuza uygun olarak, gerekli mallar için çeşitli seçenekler seçeceğiz, fiyatlandırmayı karşılaştıracağız ve değerlendirilmek üzere size sunacağız ✅ Kalite kontrol Bağımsız kalite denetçileri, ürünlerin kalitesinin gereksinimleri karşıladığından emin olmak için ihraç edilen ürünleri kontrol edecektir ✅ Numune gönderme Ürüne olan ihtiyacı onayladıktan sonra size örnekler göndereceğiz, böylece gerçekten uygun kalitede olduğundan emin olabilirsiniz, kargo örneklerinin maliyeti müşteriye aittir Malların etkileşimi, yüklenmesi ve gönderilmesi için lojistik ve gümrük planlarının belirlenmesi ✅ Karşılıklı yerleşimlerin optimal yöntem ve koşullarının seçimi Malzeme maliyetlerini optimize etmek için bireysel bir yaklaşım kullanıyoruz ✅ Ülkenizdeki uygun bir depoya teslimat Adresinizi belirtin ve teslimat maliyetini sizin için uygun bir noktaya hesaplayacağız",
+      "catalogFMCG": {
+        "title": "FMCG kataloğu",
+        "description": "İhraç ettiğimiz malların listesi",
+        "food-products": {
+          "title": "Gıda kataloğu",
+          "description": "İhraç ettiğimiz gıdaların listesi"
+        },
+        "household-chemicals": {
+          "title": "Ev kimyasalları kataloğu",
+          "description": "İhraç ettiğimiz ev kimyasalları listesi"
+        }
+      },
+      "importBuyer": {
+        "title": "Alıcı için ithalat",
+        "description": ""
+      },
+      "importSupplier": {
+        "title": "Tedarikçi için içe aktarma",
+        "description": ""
+      },
+      "priceLists": {
+        "title": "Fiyat listeleri",
+        "description": "Fiyat listemizin listesi",
+        "coffee": {
+          "title": "Kahve için fiyat listesi"
+        }
+      }
+    },
+    "contact": {
+      "title": "Temaslar",
+      "description": "Bizimle iletişime geçebileceğiniz kişiler"
+    },
+    "writeUs": {
+      "title": "Bize Yaz",
+      "description": "İsteğinizi veya ürün talebinizi yazın ve size 24 saat içinde cevap vereceğiz"
+    }
+  },
+  "page404": {
+    "title": "Sayfa bulunamadı",
+    "button": "Ana sayfaya"
+  },
+  "inDev": "Geliştirilmekte olan sayfa"
+}
