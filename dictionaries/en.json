@@ -1,0 +1,225 @@
+{
+  "navigation": {
+    "links": {
+      "one": "About us",
+      "two": "Directions",
+      "three": "News",
+      "four": "Export / Import",
+      "five": "Contact"
+    },
+    "subMenu1": {
+      "one": "Trading",
+      "two": "Production",
+      "three": "Consulting"
+    },
+    "subMenu2": {
+      "one": "Catalog FMCG for export",
+      "two": "Import for the buyer",
+      "three": "Import for supplier",
+      "four": "Price lists",
+      "commercialOffer": "Commercial offer"
+    },
+    "button": "Write us"
+  },
+
+  "watchButton": "View details",
+  "downloadButton": "Download details",
+
+  "info": "Information",
+
+  "page": {
+    "main": {
+      "title": "TRADING • CONSULTING • FORWARDING OF GOODS",
+      "description": "We started serving the FMCG sector as IMPERIAL Ltd, taking advantage of the experience of previous companies with our participation since 2014",
+      "button": "View the catalog"
+    },
+    "aboutUs": {
+      "title": "About us",
+      "one": " is an actively developing export-import company that bases its activities on rich experience and strong traditions of international business.",
+      "two": "We started our journey as a young, but professional and ambitious company working in the direction of export and import of goods for decades, which continues today, expanding in the field of international trade, brand consulting and marketing, as well as food production.",
+      "three": "In 2022, we founded a company that aims to grow and meet the needs in this area with the growing demand for FMCG goods through (Everyday Goods) restructuring.",
+      "four": "Our company is a member of the Chamber of Commerce and is accredited in the free economic zone through a partner company.",
+      "five": "We are always happy to cooperate with you, our valuable business partners, providing reliable, high-quality and fast service in the field of international procurement of FMCG goods. We specialize in trading a wide range of products, which you can see in the export / import section, as well as get information on request.",
+      "six": "In our FMCG branded products offer you can find products from such manufacturers as: Ferrero, Mars, Nestle, Mondelez, Unilever, P&G, Perfetti Van Melle, Jacobs, Nescafe, Lavazza, Wrigley, Haribo, Storck, Coca-Cola and other companies. There is also a direction of export and import of other goods and services."
+    },
+    "trading": {
+      "title": "Trading",
+      "one": "Turkey is one of the most important countries in the world in terms of world trade, as it occupies a strategically advantageous position at the intersection of world trade routes.",
+      "two": "From time immemorial, the Great Silk Road passed through Turkey, goods were delivered to different countries of the world 🌎",
+      "three": "Export / Import"
+    },
+    "production": {
+      "title": "Production",
+      "one": "The Turkish industry produces products of European quality at prices lower than European ones, which attracts world importers to it. ☝🏻",
+      "two": "The Company plans to develop other areas of activity, such as the construction of residential and non-residential complexes and food production in Turkey."
+    },
+    "consulting": {
+      "title": "Consulting",
+      "one": "We provide consulting on optimization of logistics and customs clearance of goods passing through the territory of Turkey.",
+      "two": "We are familiar with all the important aspects :",
+      "three": "✅ import-export legislation of Turkey",
+      "four": "✅ features of customs clearance procedures",
+      "five": "✅ the needs of the Turkish and other markets",
+      "six": "✅ and the most popular export destinations to other countries",
+      "seven": "Our specialists will answer all your questions about the export-import operations of any goods from/to Turkey, and our Company is also ready to accompany the transactions you conclude to their final result.",
+      "eight": "Write us",
+      "nine": "and get a free expert consultation ✍🏻"
+    },
+    "exportImport": {
+      "title": "Export / Import",
+      "one": [
+        "Company",
+        " will become a reliable partner for you in the trade and export of goods from Turkey ✈️"
+      ],
+      "two": "Acting as official dealers of the largest Turkish producers, we are ready to offer professional export services:",
+      "three": "✅ Product selection according to your requirements",
+      "four": "In accordance with your application, we will select several options for the necessary goods, compare pricing and submit them to you for consideration",
+      "five": "✅ Quality control",
+      "six": "Independent quality inspectors will check the exported products to make sure that the quality of the products meets the requirements",
+      "seven": "✅ Sending samples",
+      "eight": "After confirming the need for the product, we will send you samples so that you can make sure that it is really of proper quality, the cost of cargo samples lies with the customer",
+      "nine": "✅ Logistics",
+      "ten": "Determination of logistics and customs schemes of interaction, loading and dispatch of goods",
+      "eleven": "✅ Selection of optimal methods and conditions of mutual settlements",
+      "twelve": "We use an individual approach to optimize material costs",
+      "fourteen": "✅ Delivery to a convenient warehouse in your country",
+      "fiveteen": "Specify your address and we will calculate the cost of delivery to a convenient point for you"
+    },
+    "contact": {
+      "title": "Contact",
+      "one": "Legal / Actual address:",
+      "two": "Mahmutlar Mah. Ataturk Cad. \n ,Fatma Kodal Apt No 26, office 12,\n07450 Alanya / Antalya, Turkiye",
+      "three": "Phone number:",
+      "four": "Email:",
+      "five": "Channel in telegram",
+      "fileName": "Details of the company Imperial.pdf"
+    },
+    "writeUs": {
+      "title": "Write us",
+      "description": "Write your request or request for the product and we will respond to you within 24 hours",
+      "form": {
+        "name": {
+          "title": "Surname Name Patronymic",
+          "placeholder": "Surname Name Patronymic"
+        },
+        "organization": {
+          "title": "Organization",
+          "placeholder": "Organization name"
+        },
+        "phoneNumber": {
+          "title": "Phone Number",
+          "placeholder": "Phone Number"
+        },
+        "email": {
+          "title": "Email",
+          "placeholder": "Email"
+        },
+        "topic": {
+          "title": "Message subject",
+          "placeholder": "Choose subject",
+          "topics": ["Trading", "Production", "Consulting"]
+        },
+        "message": {
+          "title": "Message",
+          "placeholder": "Your message..."
+        },
+        "errors": {
+          "required": "This field is required",
+          "email": "Email is incorrect",
+          "empty": "The field cannot be empty"
+        },
+        "emailMessage": "The message was sent successfully. Wait for a response",
+        "emailError": "Something went wrong",
+        "button": "Send"
+      }
+    },
+    "catalog": {
+      "title": "Catalog FMCG",
+      "food-products": "Food products",
+      "household-chemicals": "Household chemicals",
+      "watch": "View",
+      "download": "Download",
+      "food-products-title": "Catalog of food products",
+      "household-chemicals-title": "Catalog of household chemicals",
+      "commercialOffer": "Commercial offer of Mehmet Efendi coffee"
+    },
+    "priceLists": {
+      "title": "Our price lists",
+      "coffee": "Coffee"
+    }
+  },
+  "footer": "All rights reserved.",
+  "seo": {
+    "keywords": "trading, consulting, forwarding of goods, imperial",
+    "home": {
+      "title": "TRADING • CONSULTING • FORWARDING OF GOODS",
+      "description": "IMPERIAL LiMITEd ŞiRKETi is an actively developing export-import company that bases its activities on rich experience and strong traditions of international business. We started our journey as a young, but professional and ambitious company working in the direction of export and import of goods for decades, which continues today, expanding in the field of international trade, brand consulting and marketing, as well as food production. In 2022, we founded a company that aims to grow and meet the needs in this area with the growing demand for FMCG goods through (Everyday Goods) restructuring. Our company is a member of the Chamber of Commerce and is accredited in the free economic zone through a partner company. We are always happy to cooperate with you, our valuable business partners, providing reliable, high-quality and fast service in the field of international procurement of FMCG goods. We specialize in trading a wide range of products, which you can see in the export / import section, as well as get information on request. In our FMCG branded products offer you can find products from such manufacturers as: Ferrero, Mars, Nestle, Mondelez, Unilever, P&G, Perfetti Van Melle, Jacobs, Nescafe, Lavazza, Wrigley, Haribo, Storck, Coca-Cola and other companies. There is also a direction of export and import of other goods and services."
+    },
+    "aboutUs": {
+      "title": "About Us"
+    },
+    "directions": {
+      "title": "Directions",
+      "consulting": {
+        "title": "Consulting",
+        "description": "We provide consulting on optimization of logistics and customs clearance of goods passing through the territory of Turkey. We are familiar with all the important aspects : ✅ import-export legislation of Turkey ✅ features of customs clearance procedures ✅ the needs of the Turkish and other markets ✅ and the most popular export destinations to other countries. Our specialists will answer all your questions about the export-import operations of any goods from/to Turkey, and our Company is also ready to accompany the transactions you conclude to their final result."
+      },
+      "production": {
+        "title": "Production",
+        "description": "The Turkish industry produces products of European quality at prices lower than European ones, which attracts world importers to it. ☝🏻 The Company plans to develop other areas of activity, such as the construction of residential and non-residential complexes and food production in Turkey."
+      },
+      "trading": {
+        "title": "Trading",
+        "description": "Turkey is one of the most important countries in the world in terms of world trade, as it occupies a strategically advantageous position at the intersection of world trade routes. From time immemorial, the Great Silk Road passed through Turkey, goods were delivered to different countries of the world 🌎"
+      }
+    },
+    "news": {
+      "title": "News",
+      "description": "Imperial company news"
+    },
+    "exportImport": {
+      "title": "Export / Import",
+      "description": "The company IMPERIAL LiMiTED ŞiRKET will become a reliable partner for you in the trade and export of goods from Turkey✈️Acting as official dealers of the largest Turkish producers, we are ready to offer professional export services:✅ Product selection in accordance with your requirements In accordance with your application, we will select several options for the necessary goods, compare pricing and submit to you for consideration ✅ Quality control Independent quality inspectors (surveyors) will check the exported products to make sure, that the product quality meets the requirements ✅ Sending samples After confirming the need for the product, we will send you samples so that you can make sure that it is really of proper quality, the cost of cargo samples lies with the customer ✅ Logistics Definition of logistics and customs schemes of interaction, loading and dispatch of goods ✅ Choosing the optimal methods and conditions of mutual settlements We use an individual approach to optimize material costs✅ Delivery to a convenient warehouse in your country, specify your address and we will calculate the cost of delivery to a convenient point for you",
+      "catalogFMCG": {
+        "title": "Catalog FMCG for export",
+        "description": "List of products that we export",
+        "food-products": {
+          "title": "Catalog of food products",
+          "description": "List of food products that we export"
+        },
+        "household-chemicals": {
+          "title": "Catalog of household chemicals",
+          "description": "List of household chemicals that we export"
+        }
+      },
+      "importBuyer": {
+        "title": "Import for the buyer",
+        "description": "Geliştirilmekte olan sayfa"
+      },
+      "importSupplier": {
+        "title": "Import for supplier",
+        "description": "Geliştirilmekte olan sayfa"
+      },
+      "priceLists": {
+        "title": "Price lists",
+        "description": "List of our price lists",
+        "coffee": {
+          "title": "Coffee price list"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Contacts where you can contact us"
+    },
+    "writeUs": {
+      "title": "Write Us",
+      "description": "Write your request or request for the product and we will respond to you within 24 hours"
+    }
+  },
+  "page404": {
+    "title": "Page was not found",
+    "button": "Go home page"
+  },
+  "inDev": "Page in development"
+}
