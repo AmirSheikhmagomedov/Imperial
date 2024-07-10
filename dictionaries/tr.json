@@ -146,6 +146,14 @@
     "priceLists": {
       "title": "Fiyat listelerimiz",
       "coffee": "Kahve"
+    },
+    "importBuyer": {
+      "title": "Alıcı için ithalat",
+      "textLink": "Slav Aktarma Kompleksi",
+      "text": "aşağıdaki ürün ve hizmetleri sunar:",
+      "one": "✅ Bezelye, nohut, darı ve mercimek satışı",
+      "two": "✅ 1 kg ile 50 kg arası torbalarda baklagillerin temizlenmesi, kalibrasyonu ve paketlenmesi hizmetleri",
+      "three": "✅ 20 ve 40 ayak konteynerlerin yeniden paketlenmesi hizmetleri"
     }
   },
 
@@ -195,11 +203,11 @@
       },
       "importBuyer": {
         "title": "Alıcı için ithalat",
-        "description": ""
+        "description": "Slav Aktarma Kompleksi, aşağıdaki ürün ve hizmetleri sunar: Bezelye, nohut, darı ve mercimek satışı. 1 kg ile 50 kg arası torbalarda baklagillerin temizlenmesi, kalibrasyonu ve paketlenmesi hizmetleri. 20 ve 40 ayak konteynerlerin yeniden paketlenmesi hizmetleri."
       },
       "importSupplier": {
         "title": "Tedarikçi için içe aktarma",
-        "description": ""
+        "description": "Geliştirilmekte olan sayfa"
       },
       "priceLists": {
         "title": "Fiyat listeleri",

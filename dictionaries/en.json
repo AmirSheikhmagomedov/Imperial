@@ -146,6 +146,14 @@
     "priceLists": {
       "title": "Our price lists",
       "coffee": "Coffee"
+    },
+    "importBuyer": {
+      "title": "Import for the buyer",
+      "textLink": "Slavic Transshipment Complex",
+      "text": "offers the following products and services:",
+      "one": "✅ Sale of peas, chickpeas, millet, and lentils",
+      "two": "✅ Services for cleaning, calibrating, and packaging legumes in bags ranging from 1 kg to 50 kg",
+      "three": "✅ Services for repacking 20- and 40-foot containers"
     }
   },
   "footer": "All rights reserved.",
@@ -194,11 +202,11 @@
       },
       "importBuyer": {
         "title": "Import for the buyer",
-        "description": "Geliştirilmekte olan sayfa"
+        "description": "The Slavic Transshipment Complex offers the following products and services: Sale of peas, chickpeas, millet, and lentils. Services for cleaning, calibrating, and packaging legumes in bags ranging from 1 kg to 50 kg. Services for repacking 20- and 40-foot containers."
       },
       "importSupplier": {
         "title": "Import for supplier",
-        "description": "Geliştirilmekte olan sayfa"
+        "description": "Page in development"
       },
       "priceLists": {
         "title": "Price lists",
