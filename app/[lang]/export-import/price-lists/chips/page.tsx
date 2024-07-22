@@ -35,7 +35,7 @@ export default async function CoffeePage({
       <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[px]">
         {exportImport.priceLists.chips.title}
       </h1>
-      <p className="block self-start mb-[-20px] max-w-[400px]">
+      <p className="block self-start mb-[-20px] max-w-[440px]">
         {exportImport.priceLists.chips.description}
       </p>
       <p className="self-start font-bold mb-[-20px]">
