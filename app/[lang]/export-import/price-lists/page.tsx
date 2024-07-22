@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
 import coffeeImage from '../../../../public/assets/images/coffee.png'
+import chipsImage from '../../../../public/assets/images/chips.png'
 
 export async function generateMetadata({
   params,
@@ -50,6 +51,20 @@ export default async function PriceLists({
             className="mt-[-5px]"
           />
           <span className="mt-auto">{priceLists.coffee}</span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/chips`}
+        >
+          <Image
+            src={chipsImage}
+            width={100}
+            height={100}
+            alt="Sweets"
+            className="mt-[-10px]"
+          />
+          <span className="mt-auto">{priceLists.chips}</span>
         </Link>
       </div>
     </section>

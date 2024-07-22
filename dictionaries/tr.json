@@ -145,7 +145,8 @@
     },
     "priceLists": {
       "title": "Fiyat listelerimiz",
-      "coffee": "Kahve"
+      "coffee": "Kahve",
+      "chips": "Cips"
     },
     "importBuyer": {
       "title": "Alıcı için ithalat",
@@ -214,6 +215,15 @@
         "description": "Fiyat listemizin listesi",
         "coffee": {
           "title": "Kahve için fiyat listesi"
+        },
+        "chips": {
+          "title": "Cips fiyat listesi",
+          "description": "Temmuz - Ağustos 2024 için güncel PRINGLES cips teklifi (Belçika, Polonya):",
+          "one": "• Ağırlık: 165 gram",
+          "two": "• Minimum sipariş: 2640 kutu (50160 adet)",
+          "three": "• Fiyat CFR Novorossiysk, DAP Moskova: parça başına 180₽ (KDV dahil)",
+          "four": "• Fiyat FCA Polonya: €1,38",
+          "five": "• Son kullanma tarihi: 07.08.2025"
         }
       }
     },

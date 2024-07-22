@@ -145,7 +145,8 @@
     },
     "priceLists": {
       "title": "Our price lists",
-      "coffee": "Coffee"
+      "coffee": "Coffee",
+      "chips": "Chips"
     },
     "importBuyer": {
       "title": "Import for the buyer",
@@ -213,6 +214,15 @@
         "description": "List of our price lists",
         "coffee": {
           "title": "Coffee price list"
+        },
+        "chips": {
+          "title": "Price list for chips",
+          "description": "Current offer for July - August 2024 for PRINGLES chips (Belgium, Poland):",
+          "one": "• Volume: 165 grams",
+          "two": "• Minimum order: 2640 boxes (50160 pieces)",
+          "three": "• Price CFR Novorossiysk, DAP Moscow: 180₽ per piece (including VAT)",
+          "four": "• Price FCA Poland: €1.38",
+          "five": "• Best before date: 07/08/2025"
         }
       }
     },
