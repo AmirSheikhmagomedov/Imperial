@@ -224,6 +224,12 @@
           "three": "• Fiyat CFR Novorossiysk, DAP Moskova: parça başına 180₽ (KDV dahil)",
           "four": "• Fiyat FCA Polonya: €1,38",
           "five": "• Son kullanma tarihi: 07.08.2025"
+        },
+        "nesquik": {
+          "title": "Nesquik fiyat listesi"
+        },
+        "nutella": {
+          "title": "Nutella fiyat listesi"
         }
       }
     },

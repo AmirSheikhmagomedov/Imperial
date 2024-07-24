@@ -223,6 +223,12 @@
           "three": "• Price CFR Novorossiysk, DAP Moscow: 180₽ per piece (including VAT)",
           "four": "• Price FCA Poland: €1.38",
           "five": "• Best before date: 07/08/2025"
+        },
+        "nesquik": {
+          "title": "Price list for Nesquik"
+        },
+        "nutella": {
+          "title": "Price list for Nutella"
         }
       }
     },
