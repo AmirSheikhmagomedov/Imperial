@@ -155,6 +155,26 @@
       "one": "✅ Sale of peas, chickpeas, millet, and lentils",
       "two": "✅ Services for cleaning, calibrating, and packaging legumes in bags ranging from 1 kg to 50 kg",
       "three": "✅ Services for repacking 20- and 40-foot containers"
+    },
+    "importSupplier": {
+      "title": "Import for supplier",
+      "text": "It is associated with two important aspects, customs clearance in the importing country and so-called parallel import",
+      "parallelImport": {
+        "title": "Parallel import",
+        "description": "Parallel import is the import of original goods into a country without the permission of the intellectual property rights holder. Sellers do not need the manufacturer's permission, as after the first purchase, it can be sold anywhere without the rights holders' consent. Goods supplied in this way are acquired and sold legally, they have all the licenses, quality certificates, and undergo customs declaration.",
+        "listTitle": "Our Company offers the following types of goods for parallel import",
+        "listOne": "Fast Moving Consumer Goods (FMCG)",
+        "listTwo": "Car parts",
+        "listThree": "Cars",
+        "listFour": "Special machinery",
+        "listFive": "Equipment",
+        "listSix": "Home appliances"
+      },
+      "customs": {
+        "title": "Customs registration",
+        "description": "Customs registration of goods is a mandatory condition for crossing the border and involves paying VAT and duties to the state budget.",
+        "text": "Learn about customs registration options"
+      }
     }
   },
   "footer": "All rights reserved.",
@@ -207,7 +227,7 @@
       },
       "importSupplier": {
         "title": "Import for supplier",
-        "description": "Page in development"
+        "description": "It is associated with two important aspects, customs clearance in the importing country and so-called parallel import"
       },
       "priceLists": {
         "title": "Price lists",

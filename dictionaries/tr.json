@@ -155,6 +155,26 @@
       "one": "✅ Bezelye, nohut, darı ve mercimek satışı",
       "two": "✅ 1 kg ile 50 kg arası torbalarda baklagillerin temizlenmesi, kalibrasyonu ve paketlenmesi hizmetleri",
       "three": "✅ 20 ve 40 ayak konteynerlerin yeniden paketlenmesi hizmetleri"
+    },
+    "importSupplier": {
+      "title": "Tedarikçi için içe aktarma",
+      "text": "İthalat ülkesindeki gümrük işlemleri ve sözde paralel ithalat olmak üzere iki önemli unsurla ilişkilidir",
+      "parallelImport": {
+        "title": "Paralel İthalat",
+        "description": "Paralel ithalat, orijinal malların fikri mülkiyet hakları sahibinin izni olmadan bir ülkeye ithal edilmesidir. Satıcılar, ilk satın almadan sonra hak sahiplerinin izni olmadan her yerde satılabileceği için üreticinin iznine ihtiyaç duymazlar. Bu şekilde tedarik edilen mallar yasal olarak edinilir ve satılır, tüm lisanslara, kalite sertifikalarına sahiptir ve gümrük beyanı yapılır.",
+        "listTitle": "Şirketimiz, paralel ithalat için aşağıdaki mal türlerini sunmaktadır",
+        "listOne": "Hızlı Tüketim Malları (FMCG)",
+        "listTwo": "Oto yedek parçaları",
+        "listThree": "Arabalar",
+        "listFour": "Özel makineler",
+        "listFive": "Ekipman",
+        "listSix": "Ev aletleri"
+      },
+      "customs": {
+        "title": "Gümrük İşlemleri",
+        "description": "Malları gümrükten geçirmek, sınırı geçmek için zorunlu bir koşul olup, devlet bütçesine KDV ve vergi ödemeyi gerektirir.",
+        "text": "Gümrük işlemleri seçeneklerini öğrenin"
+      }
     }
   },
 
@@ -208,7 +228,7 @@
       },
       "importSupplier": {
         "title": "Tedarikçi için içe aktarma",
-        "description": "Geliştirilmekte olan sayfa"
+        "description": "İthalat ülkesindeki gümrük işlemleri ve sözde paralel ithalat olmak üzere iki önemli unsurla ilişkilidir"
       },
       "priceLists": {
         "title": "Fiyat listeleri",
