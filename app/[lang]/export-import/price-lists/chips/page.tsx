@@ -31,27 +31,51 @@ export default async function CoffeePage({
   } = await getDictionary(lang)
 
   return (
-    <section className="flex flex-col items-center gap-[24px]">
-      <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[px]">
+    <section className="flex flex-col items-center gap-[24px] mt-[80px]">
+      <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[0px]">
         {exportImport.priceLists.chips.title}
       </h1>
-      <p className="block self-start mb-[-20px] max-w-[440px]">
+      <p className="block self-start mb-[-10px] max-w-[440px]">
         {exportImport.priceLists.chips.description}
       </p>
-      <p className="self-start font-bold mb-[-20px]">
-        {exportImport.priceLists.chips.one}
+      <p className="block self-start font-bold mb-[-20px] max-w-[440px]">
+        {exportImport.priceLists.chips.oldDesign.title}:
       </p>
-      <p className="self-start font-bold mb-[-20px]">
-        {exportImport.priceLists.chips.two}
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.oldDesign.one}
       </p>
-      <p className="self-start font-bold mb-[-20px]">
-        {exportImport.priceLists.chips.three}
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.oldDesign.two}
       </p>
-      <p className="self-start font-bold mb-[-20px]">
-        {exportImport.priceLists.chips.four}
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.oldDesign.three}:
       </p>
-      <p className="self-start font-bold mb-[-20px]">
-        {exportImport.priceLists.chips.five}
+      <p className="self-start  mb-[-20px] ml-[12px]">
+        • {exportImport.priceLists.chips.oldDesign.four}
+      </p>
+      <p className="self-start  mb-[-20px] ml-[12px]">
+        • {exportImport.priceLists.chips.oldDesign.five}
+      </p>
+      <p className="self-start  mb-[-0px]">
+        • {exportImport.priceLists.chips.oldDesign.six}
+      </p>
+      <p className="block self-start font-bold mb-[-20px] max-w-[440px]">
+        {exportImport.priceLists.chips.newDesign.title}:
+      </p>
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.newDesign.one}
+      </p>
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.newDesign.two}:
+      </p>
+      <p className="self-start  mb-[-20px] ml-[12px]">
+        • {exportImport.priceLists.chips.newDesign.three}
+      </p>
+      <p className="self-start  mb-[-20px] ml-[12px]">
+        • {exportImport.priceLists.chips.newDesign.four}
+      </p>
+      <p className="self-start  mb-[-20px]">
+        • {exportImport.priceLists.chips.newDesign.five}
       </p>
       <div className="flex gap-[24px] mt-[32px]">
         <SaveButton

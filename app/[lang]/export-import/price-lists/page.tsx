@@ -7,6 +7,8 @@ import coffeeImage from '../../../../public/assets/images/coffee.png'
 import chipsImage from '../../../../public/assets/images/chips.png'
 import nesquikImage from '../../../../public/assets/images/nesquik.png'
 import nutellaImage from '../../../../public/assets/images/nutella.png'
+import nutyjoyImage from '../../../../public/assets/images/nutyjoy.png'
+import kalyonImage from '../../../../public/assets/images/kalyon.png'
 
 export async function generateMetadata({
   params,
@@ -95,6 +97,36 @@ export default async function PriceLists({
             className="mt-[-25px]"
           />
           <span className="mt-auto whitespace-nowrap">FERRERO NUTELLA</span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/nutyjoy`}
+        >
+          <Image
+            src={nutyjoyImage}
+            width={72}
+            height={100}
+            alt="Sweets"
+            className="mt-[-25px]"
+          />
+          <span className="mt-auto whitespace-nowrap">NutyJoy</span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/kalyon`}
+        >
+          <Image
+            src={kalyonImage}
+            width={120}
+            height={100}
+            alt="Sweets"
+            className="mt-[-30px]"
+          />
+          <span className="mt-[10px] text-center leading-[140%]">
+            {priceLists.kalyon}
+          </span>
         </Link>
       </div>
     </section>

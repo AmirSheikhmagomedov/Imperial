@@ -146,7 +146,8 @@
     "priceLists": {
       "title": "Fiyat listelerimiz",
       "coffee": "Kahve",
-      "chips": "Cips"
+      "chips": "Cips",
+      "kalyon": "Kalyon Ev Kimyasalları"
     },
     "importBuyer": {
       "title": "Alıcı için ithalat",
@@ -237,19 +238,53 @@
           "title": "Kahve için fiyat listesi"
         },
         "chips": {
-          "title": "Cips fiyat listesi",
-          "description": "Temmuz - Ağustos 2024 için güncel PRINGLES cips teklifi (Belçika, Polonya):",
-          "one": "• Ağırlık: 165 gram",
-          "two": "• Minimum sipariş: 2640 kutu (50160 adet)",
-          "three": "• Fiyat CFR Novorossiysk, DAP Moskova: parça başına 180₽ (KDV dahil)",
-          "four": "• Fiyat FCA Polonya: €1,38",
-          "five": "• Son kullanma tarihi: 07.08.2025"
+          "title": "Cips Fiyat Listesi",
+          "description": "Ağustos 2024'ten itibaren Pringles (yeni tasarım) fiyatları:",
+          "oldDesign": {
+            "title": "Eski Tasarım",
+            "one": "Üretim: Belçika, Polonya",
+            "two": "Ağırlık: 165 g",
+            "three": "Fiyat",
+            "four": "CFR Novorossiysk, DAP Moskova: KDV dahil 180 ₽/adet",
+            "five": "FCA Polonya: 1,38 €",
+            "six": "Son kullanma tarihi: Ağustos 2025'e kadar"
+          },
+          "newDesign": {
+            "title": "Yeni Tasarım",
+            "one": "Ağırlık: 165 g",
+            "two": "Üretim",
+            "three": "Belçika: 1,42 €",
+            "four": "Polonya: 1,53 €",
+            "five": "Fiyat CFR Novorossiysk, DAP Moskova: KDV dahil 195 ₽/adet"
+          }
         },
         "nesquik": {
           "title": "Nesquik fiyat listesi"
         },
         "nutella": {
           "title": "Nutella fiyat listesi"
+        },
+        "nutyjoy": {
+          "title": "NutyJoy Fiyat Listesi",
+          "description": "Nutella'ya mükemmel bir alternatif olan NutyJoy çikolata ezmesini sizlere sunuyoruz. Bu ezmede sağlığa zararlı olan palm yağı yerine ayçiçek ve pamuk yağı kullanılır. Ürün tamamen Türkiye'de üretilmiştir, Türkçe etiketlidir ve üretici sertifikası ile birlikte gelir.",
+          "prices": {
+            "title": "FCA İstanbul koşullarında fiyatlar",
+            "one": "350 g (15 adetlik paket) – Adet başı $1,66",
+            "two": "700 g (9 veya 12 adetlik paket, orijinal paket 9 adet) – Adet başı $3,21",
+            "three": "Grissini çikolatalı, 50 g (24 adetlik paket, kutuda 4 paket, toplam 96 kutu) – Adet başı $0,37",
+            "four": "5 kg – Adet başı $14,50",
+            "five": "10 kg – Adet başı $28,50"
+          },
+          "extra": {
+            "title": "Ek koşullar",
+            "one": "DAP veya CFR koşullarında teslimat mümkündür",
+            "two": "Minimum sipariş: 5 palet"
+          }
+        },
+        "kalyon": {
+          "title": "Kalyon Temizlik Ürünleri",
+          "buttonText": "Kataloğu Görüntüle",
+          "secondButtonText": "Fiyat Listesini Görüntüle"
         }
       }
     },

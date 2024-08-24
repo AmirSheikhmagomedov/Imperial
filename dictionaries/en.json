@@ -146,7 +146,8 @@
     "priceLists": {
       "title": "Our price lists",
       "coffee": "Coffee",
-      "chips": "Chips"
+      "chips": "Chips",
+      "kalyon": "Kalyon Household Chemicals"
     },
     "importBuyer": {
       "title": "Import for the buyer",
@@ -236,19 +237,53 @@
           "title": "Coffee price list"
         },
         "chips": {
-          "title": "Price list for chips",
-          "description": "Current offer for July - August 2024 for PRINGLES chips (Belgium, Poland):",
-          "one": "• Volume: 165 grams",
-          "two": "• Minimum order: 2640 boxes (50160 pieces)",
-          "three": "• Price CFR Novorossiysk, DAP Moscow: 180₽ per piece (including VAT)",
-          "four": "• Price FCA Poland: €1.38",
-          "five": "• Best before date: 07/08/2025"
+          "title": "Price List for Chips",
+          "description": "Prices for Pringles (new design) from August 2024:",
+          "oldDesign": {
+            "title": "Old Design",
+            "one": "Manufactured in: Belgium, Poland",
+            "two": "Weight: 165 g",
+            "three": "Price",
+            "four": "CFR Novorossiysk, DAP Moscow: 180 ₽/pc with VAT",
+            "five": "FCA Poland: €1.38",
+            "six": "Expiration date: until August 2025"
+          },
+          "newDesign": {
+            "title": "New Design",
+            "one": "Weight: 165 g",
+            "two": "Manufactured in",
+            "three": "Belgium: €1.42",
+            "four": "Poland: €1.53",
+            "five": "Price CFR Novorossiysk, DAP Moscow: 195 ₽/pc with VAT"
+          }
         },
         "nesquik": {
           "title": "Price list for Nesquik"
         },
         "nutella": {
           "title": "Price list for Nutella"
+        },
+        "nutyjoy": {
+          "title": "Price List for NutyJoy",
+          "description": "We present to you NutyJoy chocolate spread, an excellent alternative to Nutella. This spread uses sunflower and cottonseed oils instead of palm oil, which is harmful to health. The product is fully manufactured in Turkey, has a Russian-language label, and comes with a manufacturer's certificate.",
+          "prices": {
+            "title": "Prices on FCA Istanbul terms",
+            "one": "350 g (15 pcs per pack) – $1.66 per unit",
+            "two": "700 g (9 or 12 pcs per pack, original packaging 9 pcs) – $3.21 per unit",
+            "three": "Grissini chocolate, 50 g (24 pcs per pack, 4 packs per box, total 96 boxes) – $0.37 per unit",
+            "four": "5 kg – $14.50 per unit",
+            "five": "10 kg – $28.50 per unit"
+          },
+          "extra": {
+            "title": "Additional conditions",
+            "one": "Delivery on DAP or CFR terms is possible",
+            "two": "Minimum order: 5 pallets"
+          }
+        },
+        "kalyon": {
+          "title": "Kalyon Household Chemicals",
+          "buttonText": "View Catalog",
+          "secondButtonText": "View Price List"
         }
       }
     },
