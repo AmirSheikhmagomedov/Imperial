@@ -239,15 +239,16 @@
         },
         "chips": {
           "title": "Cips Fiyat Listesi",
-          "description": "Ağustos 2024'ten itibaren Pringles (yeni tasarım) fiyatları:",
+          "description": "Eylül 2024'ten itibaren Pringles (yeni tasarım) fiyatları:",
           "oldDesign": {
             "title": "Eski Tasarım",
             "one": "Üretim: Belçika, Polonya",
             "two": "Ağırlık: 165 g",
             "three": "Fiyat",
-            "four": "CFR Novorossiysk, DAP Moskova: KDV dahil 180 ₽/adet",
-            "five": "FCA Polonya: 1,38 €",
-            "six": "Son kullanma tarihi: Ağustos 2025'e kadar"
+            "four": "CFR Novorossiysk, DAP Moskova: KDV dahil 185 ₽/adet",
+            "five": "FCA Polonya: 1,41 €",
+            "six": "Son kullanma tarihi: 08.2025 – 09.2025",
+            "seven": "Minimum sipariş: 2640 kutu (50.160 adet)"
           },
           "newDesign": {
             "title": "Yeni Tasarım",

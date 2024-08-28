@@ -238,15 +238,16 @@
         },
         "chips": {
           "title": "Price List for Chips",
-          "description": "Prices for Pringles (new design) from August 2024:",
+          "description": "Prices for Pringles (new design) from September 2024:",
           "oldDesign": {
             "title": "Old Design",
             "one": "Manufactured in: Belgium, Poland",
             "two": "Weight: 165 g",
             "three": "Price",
-            "four": "CFR Novorossiysk, DAP Moscow: 180 ₽/pc with VAT",
-            "five": "FCA Poland: €1.38",
-            "six": "Expiration date: until August 2025"
+            "four": "CFR Novorossiysk, DAP Moscow: 185 ₽/pc with VAT",
+            "five": "FCA Poland: €1.41",
+            "six": "Expiration date: 08.2025 – 09.2025",
+            "seven": "Minimum order: 2640 boxes (50 160 pcs.)"
           },
           "newDesign": {
             "title": "New Design",
