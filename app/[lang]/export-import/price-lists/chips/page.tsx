@@ -56,8 +56,11 @@ export default async function CoffeePage({
       <p className="self-start  mb-[-20px] ml-[12px]">
         • {exportImport.priceLists.chips.oldDesign.five}
       </p>
-      <p className="self-start  mb-[-0px]">
+      <p className="self-start  mb-[-20px]">
         • {exportImport.priceLists.chips.oldDesign.six}
+      </p>
+      <p className="self-start  mb-[-0px]">
+        • {exportImport.priceLists.chips.oldDesign.seven}
       </p>
       <p className="block self-start font-bold mb-[-20px] max-w-[440px]">
         {exportImport.priceLists.chips.newDesign.title}:
@@ -81,8 +84,8 @@ export default async function CoffeePage({
         <SaveButton
           isBlue={true}
           dictionary={catalog.download}
-          path="/documents/price-lists/chips/document.xlsx"
-          fileName={`${exportImport.priceLists.chips.title}.xlsx`}
+          path="/documents/price-lists/chips/document.pdf"
+          fileName={`${exportImport.priceLists.chips.title}.pdf`}
         />
       </div>
     </section>
