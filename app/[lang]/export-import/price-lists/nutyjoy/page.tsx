@@ -4,6 +4,8 @@ import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
 import nutyjoyImage from '../../../../../public/assets/images/nutyjoy.png'
 import nutyjoyLongImage from '../../../../../public/assets/images/nutyJoyLong.png'
+import ViewButton from '@/app/[lang]/components/ViewButton'
+import SaveButton from '@/app/[lang]/components/SaveButton'
 
 export async function generateMetadata({
   params,
@@ -29,6 +31,7 @@ export default async function CoffeePage({
 }) {
   const {
     seo: { exportImport },
+    page,
   } = await getDictionary(lang)
 
   return (
@@ -70,15 +73,27 @@ export default async function CoffeePage({
       <p className="self-start max-w-[400px]">
         • {exportImport.priceLists.nutyjoy.extra.one}
       </p>
-      <p className="self-start max-w-[400px] mb-[58px]">
+      <p className="self-start max-w-[400px] mb-[32px]">
         • {exportImport.priceLists.nutyjoy.extra.two}
       </p>
+      <div className="flex gap-[24px] self-start mb-[32px]">
+        <ViewButton
+          dictionary={page.catalog.watch}
+          className="self-start"
+          documentName="price-lists/nutyjoy"
+        />
+        <SaveButton
+          dictionary={page.catalog.download}
+          fileName={`${exportImport.priceLists.nutyjoy.title}.pdf`}
+          path="/documents/price-lists/nutyjoy/document.pdf"
+        />
+      </div>
       <Image
         src={nutyjoyLongImage}
         width={400}
         height={100}
         alt="Sweets"
-        className="mt-[-30px] self-start"
+        className=" self-start"
       />
     </section>
   )

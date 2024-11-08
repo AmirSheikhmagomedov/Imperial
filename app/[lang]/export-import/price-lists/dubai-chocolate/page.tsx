@@ -6,6 +6,7 @@ import Image from 'next/image'
 import choco1 from '../../../../../public/assets/images/dubaiChocolate1.png'
 import choco2 from '../../../../../public/assets/images/dubaiChocolate2.png'
 import choco3 from '../../../../../public/assets/images/dubaiChocolate3.png'
+import Link from 'next/link'
 
 export async function generateMetadata({
   params,
@@ -67,8 +68,19 @@ export default async function CoffeePage({
       <p className="max-w-[500px] self-start">
         • {exportImport.priceLists.dubaiChocolate.flavors.six}
       </p>
-      <p className="block self-start font-bold text-[20px] mb-[-20px] max-w-[440px]">
+      <p className="block self-start font-bold text-[20px]  max-w-[440px]">
         {exportImport.priceLists.dubaiChocolate.price}
+      </p>
+      <p className="block self-start  text-[18px] mb-[-20px] max-w-[440px]">
+        {exportImport.priceLists.dubaiChocolate.website}:
+        <br />
+        <Link
+          href={'https://fixdessertchocolates.com'}
+          className="text-blue-600 font-bold"
+        >
+          {' '}
+          FIX Dessert Chocolatier
+        </Link>
       </p>
     </section>
   )

@@ -30,7 +30,7 @@ export default async function CoffeePage({
     seo: { exportImport },
   } = await getDictionary(lang)
 
-  const { downloadButton } = await getDictionary(lang)
+  const { page } = await getDictionary(lang)
 
   return (
     <section className="flex flex-col items-center">
@@ -39,12 +39,12 @@ export default async function CoffeePage({
       </h1>
       <div className="flex gap-[24px]">
         <ViewButton
-          dictionary={exportImport.priceLists.ace.buttonText}
+          dictionary={page.catalog.watch}
           className="self-start"
           documentName="price-lists/ace"
         />
         <SaveButton
-          dictionary={downloadButton}
+          dictionary={page.catalog.download}
           fileName={`${exportImport.priceLists.ace.title}.pdf`}
           path="/documents/price-lists/ace/document.pdf"
         />
