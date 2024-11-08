@@ -64,11 +64,8 @@ export default async function CoffeePage({
       <p className="max-w-[500px] self-start  mb-[-20px]">
         • {exportImport.priceLists.dubaiChocolate.flavors.five}
       </p>
-      <p className="max-w-[500px] self-start  mb-[-20px]">
+      <p className="max-w-[500px] self-start">
         • {exportImport.priceLists.dubaiChocolate.flavors.six}
-      </p>
-      <p className="self-start  mb-[-0px]">
-        • {exportImport.priceLists.chips.oldDesign.seven}
       </p>
       <p className="block self-start font-bold text-[20px] mb-[-20px] max-w-[440px]">
         {exportImport.priceLists.dubaiChocolate.price}
