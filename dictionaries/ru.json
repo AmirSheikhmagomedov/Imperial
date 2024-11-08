@@ -147,7 +147,8 @@
       "title": "Наши прайс-листы",
       "coffee": "Кофе",
       "chips": "Чипсы",
-      "kalyon": "Бытовая химия Kalyon"
+      "kalyon": "Бытовая химия Kalyon",
+      "ace": "Бытовая химия Ace"
     },
     "importBuyer": {
       "title": "Импорт для покупателя",
@@ -283,6 +284,11 @@
         },
         "kalyon": {
           "title": "Бытовая химия Kalyon",
+          "buttonText": "Смотреть каталог",
+          "secondButtonText": "Смотреть прайс-лист"
+        },
+        "ace": {
+          "title": "Бытовая химия Ace",
           "buttonText": "Смотреть каталог",
           "secondButtonText": "Смотреть прайс-лист"
         }

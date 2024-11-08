@@ -9,6 +9,7 @@ import nesquikImage from '../../../../public/assets/images/nesquik.png'
 import nutellaImage from '../../../../public/assets/images/nutella.png'
 import nutyjoyImage from '../../../../public/assets/images/nutyjoy.png'
 import kalyonImage from '../../../../public/assets/images/kalyon.png'
+import aceImage from '../../../../public/assets/images/ace.png'
 
 export async function generateMetadata({
   params,
@@ -37,7 +38,7 @@ export default async function PriceLists({
   } = await getDictionary(lang)
 
   return (
-    <section className="flex flex-col items-center max-[520px]:mt-[48px]">
+    <section className="flex flex-col items-center max-w-[1000px] mt-[64px] max-[520px]:mt-[48px]">
       <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[48px]">
         {priceLists.title}
       </h1>
@@ -126,6 +127,22 @@ export default async function PriceLists({
           />
           <span className="mt-[10px] text-center leading-[140%]">
             {priceLists.kalyon}
+          </span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/ace`}
+        >
+          <Image
+            src={aceImage}
+            width={110}
+            height={120}
+            alt="Sweets"
+            className="mt-[-20px]"
+          />
+          <span className="mt-[10px] text-center leading-[140%]">
+            {priceLists.ace}
           </span>
         </Link>
       </div>

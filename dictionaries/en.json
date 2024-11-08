@@ -147,7 +147,9 @@
       "title": "Our price lists",
       "coffee": "Coffee",
       "chips": "Chips",
-      "kalyon": "Kalyon Household Chemicals"
+      "kalyon": "Kalyon Household Chemicals",
+      "ace": "Ace Household Chemicals"
+			
     },
     "importBuyer": {
       "title": "Import for the buyer",
@@ -283,6 +285,11 @@
         },
         "kalyon": {
           "title": "Kalyon Household Chemicals",
+          "buttonText": "View Catalog",
+          "secondButtonText": "View Price List"
+        },
+				"ace": {
+          "title": "Ace Household Chemicals",
           "buttonText": "View Catalog",
           "secondButtonText": "View Price List"
         }

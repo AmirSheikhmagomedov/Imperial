@@ -147,7 +147,8 @@
       "title": "Fiyat listelerimiz",
       "coffee": "Kahve",
       "chips": "Cips",
-      "kalyon": "Kalyon Ev Kimyasalları"
+      "kalyon": "Kalyon Ev Kimyasalları",
+      "ace": "Ace Ev Kimyasalları"
     },
     "importBuyer": {
       "title": "Alıcı için ithalat",
@@ -284,6 +285,11 @@
         },
         "kalyon": {
           "title": "Kalyon Temizlik Ürünleri",
+          "buttonText": "Kataloğu Görüntüle",
+          "secondButtonText": "Fiyat Listesini Görüntüle"
+        },
+				"ace": {
+          "title": "Ace Temizlik Ürünleri",
           "buttonText": "Kataloğu Görüntüle",
           "secondButtonText": "Fiyat Listesini Görüntüle"
         }
