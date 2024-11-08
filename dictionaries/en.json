@@ -148,8 +148,8 @@
       "coffee": "Coffee",
       "chips": "Chips",
       "kalyon": "Kalyon Household Chemicals",
-      "ace": "Ace Household Chemicals"
-			
+      "ace": "Ace Household Chemicals",
+      "dubaiChocolate": "Dubai Chocolate Fix"
     },
     "importBuyer": {
       "title": "Import for the buyer",
@@ -288,10 +288,24 @@
           "buttonText": "View Catalog",
           "secondButtonText": "View Price List"
         },
-				"ace": {
+        "ace": {
           "title": "Ace Household Chemicals",
           "buttonText": "View Catalog",
           "secondButtonText": "View Price List"
+        },
+        "dubaiChocolate": {
+          "title": "Dubai Chocolate Fix",
+          "description": "We offer original Dubai Chocolate Fix from Dubai, UAE. Delivery is carried out by air cargo and takes 10 days from the date of payment. Minimum order quantity is 100 units.",
+          "flavorsTitle": "Types and varieties of Fix Chocolate",
+          "flavors": {
+            "one": "Pistachio filling, knafeh mixed with pistachios and tahini paste, coated in milk chocolate",
+            "two": "Brownie with Nutella and Fix custard cream and flakes, coated in milk chocolate",
+            "three": "Phyllo dough with sweet cinnamon, caramel, and peanut butter, coated in milk chocolate",
+            "four": "Lotus cheesecake, coated in white chocolate",
+            "five": "Karak flavor with milk chocolate",
+            "six": "Knafeh and salted caramel with pretzel in milk chocolate"
+          },
+          "price": "Wholesale price starts from an order of 100 Fix chocolate bars at an FCA price of 60 AED / 1600 RUB per piece. DDP price in Moscow is 2500 RUB per piece, including delivery and customs to Russia."
         }
       }
     },

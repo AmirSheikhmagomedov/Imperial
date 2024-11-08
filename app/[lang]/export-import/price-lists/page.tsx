@@ -10,6 +10,7 @@ import nutellaImage from '../../../../public/assets/images/nutella.png'
 import nutyjoyImage from '../../../../public/assets/images/nutyjoy.png'
 import kalyonImage from '../../../../public/assets/images/kalyon.png'
 import aceImage from '../../../../public/assets/images/ace.png'
+import dubaiChocolateImage from '../../../../public/assets/images/dubaiChocolate.png'
 
 export async function generateMetadata({
   params,
@@ -112,6 +113,22 @@ export default async function PriceLists({
             className="mt-[-25px]"
           />
           <span className="mt-auto whitespace-nowrap">NutyJoy</span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/dubai-chocolate`}
+        >
+          <Image
+            src={dubaiChocolateImage}
+            width={180}
+            height={120}
+            alt="Sweets"
+            className="mt-[-10px]"
+          />
+          <span className="mt-[10px] text-center leading-[140%]">
+            {priceLists.dubaiChocolate}
+          </span>
         </Link>
         <Link
           className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
