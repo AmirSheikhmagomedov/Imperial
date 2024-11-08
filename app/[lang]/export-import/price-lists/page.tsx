@@ -11,6 +11,7 @@ import nutyjoyImage from '../../../../public/assets/images/nutyjoy.png'
 import kalyonImage from '../../../../public/assets/images/kalyon.png'
 import aceImage from '../../../../public/assets/images/ace.png'
 import dubaiChocolateImage from '../../../../public/assets/images/dubaiChocolate.png'
+import hariboImage from '../../../../public/assets/images/haribo.png'
 
 export async function generateMetadata({
   params,
@@ -128,6 +129,22 @@ export default async function PriceLists({
           />
           <span className="mt-[10px] text-center leading-[140%]">
             {priceLists.dubaiChocolate}
+          </span>
+        </Link>
+        <Link
+          className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
+			 bg-white pt-[40px] hover:bg-blue-100"
+          href={`/${lang}/export-import/price-lists/haribo`}
+        >
+          <Image
+            src={hariboImage}
+            width={100}
+            height={120}
+            alt="Sweets"
+            className="mt-[-10px]"
+          />
+          <span className="mt-[10px] text-center leading-[140%]">
+            {priceLists.haribo}
           </span>
         </Link>
         <Link

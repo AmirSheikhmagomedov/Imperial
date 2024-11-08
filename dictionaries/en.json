@@ -149,7 +149,8 @@
       "chips": "Chips",
       "kalyon": "Kalyon Household Chemicals",
       "ace": "Ace Household Chemicals",
-      "dubaiChocolate": "Dubai Chocolate Fix"
+      "dubaiChocolate": "Dubai Chocolate Fix",
+      "haribo": "HARIBO chewing marmalade"
     },
     "importBuyer": {
       "title": "Import for the buyer",
@@ -306,6 +307,9 @@
             "six": "Knafeh and salted caramel with pretzel in milk chocolate"
           },
           "price": "Wholesale price starts from an order of 100 Fix chocolate bars at an FCA price of 60 AED / 1600 RUB per piece. DDP price in Moscow is 2500 RUB per piece, including delivery and customs to Russia."
+        },
+        "haribo": {
+          "title": "HARIBO chewing marmalade"
         }
       }
     },

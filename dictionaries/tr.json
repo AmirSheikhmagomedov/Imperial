@@ -149,7 +149,8 @@
       "chips": "Cips",
       "kalyon": "Kalyon Ev Kimyasalları",
       "ace": "Ace Ev Kimyasalları",
-      "dubaiChocolate": "Dubai Çikolatası Fix"
+      "dubaiChocolate": "Dubai Çikolatası Fix",
+      "haribo": "HARİBO sakızlı marmelat"
     },
     "importBuyer": {
       "title": "Alıcı için ithalat",
@@ -307,6 +308,9 @@
             "six": "Knafeh ve pretzelli tuzlu karamel, sütlü çikolata ile kaplı"
           },
           "price": "Toptan fiyat, 100 Fix çikolata barı siparişi ile başlamaktadır; FCA fiyatı birim başına 60 AED / 1600 RUB'dir. Moskova'da DDP fiyatı ise teslimat ve gümrük dahil olmak üzere birim başına 2500 RUB'dir."
+        },
+        "haribo": {
+          "title": "HARİBO sakızlı marmelat"
         }
       }
     },
