@@ -52,7 +52,7 @@ export default async function PriceLists({
         >
           <Image
             src={coffeeImage}
-            width={70}
+            width={130}
             height={100}
             alt="Sweets"
             className="mt-[-5px]"
