@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
-import coffeeImage from '../../../../public/assets/images/coffee.png'
+import cartImage from '../../../../public/assets/images/products.png'
 import coffeeVietnamImage from '../../../../public/assets/images/coffeeVietnam.jpg'
 
 export async function generateMetadata({
@@ -43,14 +43,14 @@ export default async function PriceLists({
         <Link
           className="w-[200px] h-[200px] border-[1px] border-grey-border-color rounded-[4px]  flex flex-col items-center p-[25px]
 			 bg-white pt-[40px] hover:bg-blue-100"
-          href={`/${lang}/export-import/commercial-offers/coffee-mehmet-efendi`}
+          href={`/${lang}/export-import/commercial-offers/consumer-goods`}
         >
           <Image
-            src={coffeeImage}
-            width={130}
+            src={cartImage}
+            width={110}
             height={100}
             alt="Sweets"
-            className="mt-[-5px]"
+            className="mt-[-15px]"
           />
           <span className="mt-[15px] text-center leading-[140%]">
             {commercialOffers.coffeeMehmetEfendi}

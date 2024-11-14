@@ -144,7 +144,7 @@
       "commercialOffers": {
         "title": "Commercial offers",
         "mehmetEfendi": {
-          "title": "Commercial offer of Mehmet Efendi coffee"
+          "title": "Commercial offer for consumer goods"
         },
         "coffeeVietnam": {
           "title": "Commercial offer for the supply of coffee from Vietnam"
@@ -189,7 +189,7 @@
       }
     },
     "commercialOffers": {
-      "coffeeMehmetEfendi": "Coffee Mehmet Efendi",
+      "coffeeMehmetEfendi": "Consumer goods FMCG",
       "coffeeVietnam": "Coffee Vietnam"
     }
   },

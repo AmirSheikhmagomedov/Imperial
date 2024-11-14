@@ -39,11 +39,11 @@ export default async function FoodProducts({
         <ViewButton
           dictionary={catalog.watch}
           className="self-start"
-          documentName="commercial-offers/coffeeMehmetEfendi"
+          documentName="commercial-offers/consumer-goods"
         />
         <SaveButton
           dictionary={catalog.download}
-          path="/documents/commercial-offers/coffeeMehmetEfendi/document.pdf"
+          path="/documents/commercial-offers/consumer-goods/document.pdf"
           fileName={`${catalog.commercialOffers.mehmetEfendi.title}.pdf`}
         />
       </div>

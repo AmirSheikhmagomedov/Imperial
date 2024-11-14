@@ -144,7 +144,7 @@
       "commercialOffers": {
         "title": "Ticari Teklifler",
         "mehmetEfendi": {
-          "title": "Mehmet Efendi Kahvesinin Ticari Teklifi"
+          "title": "Tüketim malları için ticari teklif"
         },
         "coffeeVietnam": {
           "title": "Vietnam'dan kahve tedariki için ticari teklif"
@@ -189,7 +189,7 @@
       }
     },
     "commercialOffers": {
-      "coffeeMehmetEfendi": "Mehmet Efendi Kahvesi",
+      "coffeeMehmetEfendi": "FMCG Tüketim Malları",
       "coffeeVietnam": "Kahve Vietnam"
     }
   },
