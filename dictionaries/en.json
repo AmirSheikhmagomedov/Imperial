@@ -17,7 +17,7 @@
       "two": "Import for the buyer",
       "three": "Import for supplier",
       "four": "Price lists",
-      "commercialOffer": "Commercial offer"
+      "commercialOffer": "Commercial offers"
     },
     "button": "Write us"
   },
@@ -141,7 +141,15 @@
       "download": "Download",
       "food-products-title": "Catalog of food products",
       "household-chemicals-title": "Catalog of household chemicals",
-      "commercialOffer": "Commercial offer of Mehmet Efendi coffee"
+      "commercialOffers": {
+        "title": "Commercial offers",
+        "mehmetEfendi": {
+          "title": "Commercial offer of Mehmet Efendi coffee"
+        },
+        "coffeeVietnam": {
+          "title": "Commercial offer for the supply of coffee from Vietnam"
+        }
+      }
     },
     "priceLists": {
       "title": "Our price lists",
@@ -179,6 +187,10 @@
         "description": "Customs registration of goods is a mandatory condition for crossing the border and involves paying VAT and duties to the state budget.",
         "text": "Learn about customs registration options"
       }
+    },
+    "commercialOffers": {
+      "coffeeMehmetEfendi": "Coffee Mehmet Efendi",
+      "coffeeVietnam": "Coffee Vietnam"
     }
   },
   "footer": "All rights reserved.",

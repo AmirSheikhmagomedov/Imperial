@@ -40,7 +40,7 @@ export default async function PriceLists({
   } = await getDictionary(lang)
 
   return (
-    <section className="flex flex-col items-center max-w-[1000px] mt-[64px] max-[520px]:mt-[48px]">
+    <section className="flex flex-col items-center max-w-[1000px] mt-[100px] max-[520px]:mt-[48px]">
       <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[48px]">
         {priceLists.title}
       </h1>

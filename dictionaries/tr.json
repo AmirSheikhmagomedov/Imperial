@@ -17,7 +17,7 @@
       "two": "Alıcı için ithalat",
       "three": "Tedarikçi için içe aktarma",
       "four": "Fiyat listeleri",
-      "commercialOffer": "Ticari teklif"
+      "commercialOffer": "Ticari teklifler"
     },
     "button": "Bize yaz"
   },
@@ -141,7 +141,15 @@
       "download": "İndirmek",
       "food-products-title": "Gıda kataloğu",
       "household-chemicals-title": "Ev kimyasalları kataloğu",
-      "commercialOffer": "Mehmet Efendi Kahvesinin Ticari Teklifi"
+      "commercialOffers": {
+        "title": "Ticari Teklifler",
+        "mehmetEfendi": {
+          "title": "Mehmet Efendi Kahvesinin Ticari Teklifi"
+        },
+        "coffeeVietnam": {
+          "title": "Vietnam'dan kahve tedariki için ticari teklif"
+        }
+      }
     },
     "priceLists": {
       "title": "Fiyat listelerimiz",
@@ -179,6 +187,10 @@
         "description": "Malları gümrükten geçirmek, sınırı geçmek için zorunlu bir koşul olup, devlet bütçesine KDV ve vergi ödemeyi gerektirir.",
         "text": "Gümrük işlemleri seçeneklerini öğrenin"
       }
+    },
+    "commercialOffers": {
+      "coffeeMehmetEfendi": "Mehmet Efendi Kahvesi",
+      "coffeeVietnam": "Kahve Vietnam"
     }
   },
 

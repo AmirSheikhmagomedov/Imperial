@@ -14,10 +14,10 @@ export async function generateMetadata({
   } = await getDictionary(params.lang)
 
   return {
-    title: `${catalog.commercialOffer} | ${
+    title: `${catalog.commercialOffers.mehmetEfendi.title} | ${
       params.lang === 'ru' ? 'Империал' : 'Imperial'
     }`,
-    description: catalog.commercialOffer,
+    description: catalog.commercialOffers.mehmetEfendi.title,
   }
 }
 
@@ -32,19 +32,19 @@ export default async function FoodProducts({
 
   return (
     <section className="flex flex-col items-center">
-      <h1 className="text-black text-[48px] font-bold text-center leading-[120%] mb-[32px] max-[480px]:text-[36px]">
-        {catalog.commercialOffer}
+      <h1 className="text-black max-w-[750px] text-[48px] font-bold text-center leading-[120%] mb-[32px] max-[480px]:text-[36px]">
+        {catalog.commercialOffers.mehmetEfendi.title}
       </h1>
       <div className="flex gap-[24px]">
         <ViewButton
           dictionary={catalog.watch}
           className="self-start"
-          documentName="commercial-offer"
+          documentName="commercial-offers/coffeeMehmetEfendi"
         />
         <SaveButton
           dictionary={catalog.download}
-          path="/documents/commercial-offer/document.pdf"
-          fileName={`${catalog.commercialOffer}.pdf`}
+          path="/documents/commercial-offers/coffeeMehmetEfendi/document.pdf"
+          fileName={`${catalog.commercialOffers.mehmetEfendi.title}.pdf`}
         />
       </div>
     </section>

@@ -176,11 +176,11 @@ export default function NavBar({
                       <Link
                         className={`hover:text-blue-text ${
                           currentRoute ===
-                          `/${lang}/export-import/commercial-offer`
+                          `/${lang}/export-import/commercial-offers`
                             ? 'text-blue-text'
                             : ''
                         }`}
-                        href={`/${lang}/export-import/commercial-offer`}
+                        href={`/${lang}/export-import/commercial-offers`}
                         onClick={() => {
                           setIsSubmenuTwoVisible(false)
                         }}
