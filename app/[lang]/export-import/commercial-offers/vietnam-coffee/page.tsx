@@ -1,8 +1,10 @@
+import Image from 'next/image'
 import { Metadata } from 'next'
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
 import SaveButton from '@/app/[lang]/components/SaveButton'
 import ViewButton from '@/app/[lang]/components/ViewButton'
+import coffeeVariants from '@/public/assets/images/coffeeVariants.png'
 
 export async function generateMetadata({
   params,
@@ -31,7 +33,13 @@ export default async function FoodProducts({
   } = await getDictionary(lang)
 
   return (
-    <section className="flex flex-col items-center">
+    <section className="flex flex-col items-center pt-[50px]">
+      <Image
+        src={coffeeVariants}
+        width={350}
+        className="mb-[20px]"
+        alt="coffee"
+      />
       <h1 className="text-black max-w-[750px] text-[48px] font-bold text-center leading-[120%] mb-[32px] max-[480px]:text-[36px]">
         {catalog.commercialOffers.coffeeVietnam.title}
       </h1>
