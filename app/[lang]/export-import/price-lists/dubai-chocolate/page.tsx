@@ -75,7 +75,7 @@ export default async function CoffeePage({
         {exportImport.priceLists.dubaiChocolate.website}:
         <br />
         <Link
-          href={'https://fixdessertchocolates.com'}
+          href={'https://mr1crx-r0.myshopify.com'}
           className="text-blue-600 font-bold"
         >
           {' '}
