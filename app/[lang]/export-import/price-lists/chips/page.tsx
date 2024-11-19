@@ -38,9 +38,9 @@ export default async function CoffeePage({
       <p className="block self-start mb-[-10px] max-w-[440px]">
         {exportImport.priceLists.chips.description}
       </p>
-      <p className="block self-start font-bold mb-[-20px] max-w-[440px]">
+      {/*<p className="block self-start font-bold mb-[-20px] max-w-[440px]">
         {exportImport.priceLists.chips.oldDesign.title}:
-      </p>
+      </p>*/}
       <p className="self-start  mb-[-20px]">
         • {exportImport.priceLists.chips.oldDesign.one}
       </p>
@@ -62,7 +62,7 @@ export default async function CoffeePage({
       <p className="self-start  mb-[-0px]">
         • {exportImport.priceLists.chips.oldDesign.seven}
       </p>
-      <p className="block self-start font-bold mb-[-20px] max-w-[440px]">
+      {/*<p className="block self-start font-bold mb-[-20px] max-w-[440px]">
         {exportImport.priceLists.chips.newDesign.title}:
       </p>
       <p className="self-start  mb-[-20px]">
@@ -79,7 +79,7 @@ export default async function CoffeePage({
       </p>
       <p className="self-start  mb-[-20px]">
         • {exportImport.priceLists.chips.newDesign.five}
-      </p>
+      </p>*/}
       <div className="flex gap-[24px] mt-[32px]">
         <SaveButton
           isBlue={true}
