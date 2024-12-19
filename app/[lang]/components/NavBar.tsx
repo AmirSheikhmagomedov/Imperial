@@ -58,7 +58,7 @@ export default function NavBar({
                 >
                   <ul
                     className="flex flex-col gap-[16px]  bg-white rounded-[4px] text-[14px] shadow-md px-[16px] py-[20px]
-				leading-[100%]"
+				leading-[100%] border-[1px]"
                   >
                     <li>
                       <Link
@@ -140,7 +140,7 @@ export default function NavBar({
                 >
                   <ul
                     className="flex flex-col gap-[16px]  bg-white rounded-[4px] whitespace-nowrap text-[14px] shadow-md px-[16px] py-[20px]
-				leading-[100%]"
+				leading-[100%] border-[1px]"
                   >
                     <li>
                       <Link
@@ -155,6 +155,22 @@ export default function NavBar({
                         }}
                       >
                         {dictionary.navigation.subMenu2.one}
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className={`hover:text-blue-text ${
+                          currentRoute ===
+                          `/${lang}/export-import/catalog-spicesVietnam`
+                            ? 'text-blue-text'
+                            : ''
+                        }`}
+                        href={`/${lang}/export-import/catalog-spicesVietnam`}
+                        onClick={() => {
+                          setIsSubmenuTwoVisible(false)
+                        }}
+                      >
+                        {dictionary.navigation.subMenu2.spicesVietnam}
                       </Link>
                     </li>
                     <li>

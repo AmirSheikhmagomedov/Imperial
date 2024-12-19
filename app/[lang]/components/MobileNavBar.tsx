@@ -78,7 +78,7 @@ export default function MobileNavBar({
                       >
                         <ul
                           className="flex flex-col gap-[16px]  bg-white rounded-[4px] text-[14px] shadow-md px-[16px] py-[20px]
-			leading-[100%]"
+			leading-[100%] border-[1px]"
                         >
                           <li>
                             <Link
@@ -148,7 +148,7 @@ export default function MobileNavBar({
                   <AnimatePresence>
                     {isSubmenuTwoVisible && (
                       <motion.div
-                        className="absolute top-[16px] max-[420px]:left-1/2 max-[420px]:-translate-x-1/2 h-[134px] bg-transparent pt-[15px]"
+                        className="absolute top-[16px] max-[604px]:left-1/2 max-[604px]:-translate-x-1/2 h-[134px] bg-transparent pt-[15px]"
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
                         exit={{ opacity: 0 }}
@@ -156,7 +156,7 @@ export default function MobileNavBar({
                       >
                         <ul
                           className="flex flex-col gap-[16px] max-[420px]:items-center  bg-white rounded-[4px] whitespace-nowrap text-[14px] shadow-md px-[16px] py-[20px]
-			leading-[100%]"
+			leading-[100%] border-[1px]"
                         >
                           <li>
                             <Link
@@ -183,6 +183,20 @@ export default function MobileNavBar({
                               onClick={onClick}
                             >
                               {dictionary.navigation.subMenu2.one}
+                            </Link>
+                          </li>
+                          <li>
+                            <Link
+                              className={`hover:text-blue-text ${
+                                currentRoute ===
+                                `/${lang}/export-import/catalog-spicesVietnam`
+                                  ? 'text-blue-text'
+                                  : ''
+                              }`}
+                              href={`/${lang}/export-import/catalog-spicesVietnam`}
+                              onClick={onClick}
+                            >
+                              {dictionary.navigation.subMenu2.spicesVietnam}
                             </Link>
                           </li>
                           <li>
