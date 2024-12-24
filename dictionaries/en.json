@@ -344,5 +344,6 @@
     "title": "Page was not found",
     "button": "Go home page"
   },
-  "inDev": "Page in development"
+  "inDev": "Page in development",
+  "getOfferLink": "GET AN OFFER"
 }
