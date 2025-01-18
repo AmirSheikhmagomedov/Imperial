@@ -71,7 +71,7 @@ export default async function FoodProducts({
       </p>
       <Link
         href={
-          'http://localhost:3000/assets/documents/commercial-offers/coffeeVietnam/offerForRussia.pdf'
+          '/assets/documents/commercial-offers/coffeeVietnam/offerForRussia.pdf'
         }
         className="font-bold text-[24px] text-center underline leading-[160%] hover:text-blue-text underline-offset-[4px] mb-[20px]"
       >
@@ -79,7 +79,7 @@ export default async function FoodProducts({
       </Link>
       <Link
         href={
-          'http://localhost:3000/assets/documents/commercial-offers/coffeeVietnam/offerForTurkey.pdf'
+          '/assets/documents/commercial-offers/coffeeVietnam/offerForTurkey.pdf'
         }
         className="font-bold text-[24px] text-center underline leading-[160%] hover:text-blue-text underline-offset-[4px]"
       >
