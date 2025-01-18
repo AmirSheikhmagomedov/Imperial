@@ -74,6 +74,7 @@ export default async function FoodProducts({
           '/assets/documents/commercial-offers/coffeeVietnam/offerForRussia.pdf'
         }
         className="font-bold text-[24px] text-center underline leading-[160%] hover:text-blue-text underline-offset-[4px] mb-[20px]"
+        target="_blank"
       >
         {catalog.commercialOffers.coffeeVietnam.offerRussia}
       </Link>
@@ -82,6 +83,7 @@ export default async function FoodProducts({
           '/assets/documents/commercial-offers/coffeeVietnam/offerForTurkey.pdf'
         }
         className="font-bold text-[24px] text-center underline leading-[160%] hover:text-blue-text underline-offset-[4px]"
+        target="_blank"
       >
         {catalog.commercialOffers.coffeeVietnam.offerTurkey}
       </Link>
