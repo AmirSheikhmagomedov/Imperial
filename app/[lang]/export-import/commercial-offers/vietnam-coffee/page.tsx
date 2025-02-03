@@ -57,12 +57,6 @@ export default async function FoodProducts({
           fileName={`${catalog.commercialOffers.coffeeVietnam.title}.pdf`}
         />
       </div>*/}
-      <Image
-        src={coffeeNews}
-        width={650}
-        className="mb-[40px] border-[1px] border-black rounded"
-        alt="coffee"
-      />
       <p className="text-black text-[16px] max-w-[650px] mb-[20px]">
         {catalog.commercialOffers.coffeeVietnam.textOne}
       </p>
