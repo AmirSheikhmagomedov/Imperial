@@ -189,14 +189,14 @@ export default function MobileNavBar({
                             <Link
                               className={`hover:text-blue-text ${
                                 currentRoute ===
-                                `/${lang}/export-import/catalog-spicesVietnam`
+                                `/${lang}/export-import/exportVietnam`
                                   ? 'text-blue-text'
                                   : ''
                               }`}
-                              href={`/${lang}/export-import/catalog-spicesVietnam`}
+                              href={`/${lang}/export-import/exportVietnam`}
                               onClick={onClick}
                             >
-                              {dictionary.navigation.subMenu2.spicesVietnam}
+                              {dictionary.navigation.subMenu2.exportVietnam}
                             </Link>
                           </li>
                           <li>

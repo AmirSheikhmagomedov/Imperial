@@ -161,16 +161,16 @@ export default function NavBar({
                       <Link
                         className={`hover:text-blue-text ${
                           currentRoute ===
-                          `/${lang}/export-import/catalog-spicesVietnam`
+                          `/${lang}/export-import/exportVietnam`
                             ? 'text-blue-text'
                             : ''
                         }`}
-                        href={`/${lang}/export-import/catalog-spicesVietnam`}
+                        href={`/${lang}/export-import/exportVietnam`}
                         onClick={() => {
                           setIsSubmenuTwoVisible(false)
                         }}
                       >
-                        {dictionary.navigation.subMenu2.spicesVietnam}
+                        {dictionary.navigation.subMenu2.exportVietnam}
                       </Link>
                     </li>
                     <li>
