@@ -18,7 +18,7 @@
       "three": "Import for supplier",
       "four": "Price lists",
       "commercialOffer": "Commercial offers",
-      "spicesVietnam": "Catalog of natural spices from Vietnam"
+      "exportVietnam": "Catalogs of export products from Vietnam"
     },
     "button": "Write us"
   },
@@ -153,6 +153,13 @@
           "textTwo": "Since the beginning of the year, Vietnam has exported 114,424 tons of pepper worth 493.1 million USD, which is 13.2% less in volume but 20.6% higher in value compared to the same period last year. The average export price for black pepper is 4,197 USD per ton, and for white pepper – 5,804 USD per ton, which is 754 USD and 849 USD higher, respectively, than in the same period in 2023. The United States was the largest importer of Vietnamese spices during this period, importing 30,466 tons, accounting for 26.6% of the total volume and increasing by 44.4% compared to last year. Exports also grew significantly to markets such as Italy, Germany, and Russia.",
           "offerRussia": "Commercial offer for Russia",
           "offerTurkey": "Commercial offer for Turkey"
+        },
+        "exportVietnam": {
+          "coffee": "Coffee",
+          "spices": "Spices",
+          "driedFruits": "Dried fruits",
+          "nuts": "Nuts",
+          "coconut": "Coconut"
         }
       }
     },

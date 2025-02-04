@@ -18,7 +18,7 @@
       "three": "Tedarikçi için içe aktarma",
       "four": "Fiyat listeleri",
       "commercialOffer": "Ticari teklifler",
-      "spicesVietnam": "Vietnam'dan doğal baharat Kataloğu"
+      "exportVietnam": "Vietnam'dan ihracat ürünleri katalogları"
     },
     "button": "Bize yaz"
   },
@@ -153,6 +153,13 @@
           "textTwo": "Yılbaşından bu yana Vietnam, 114.424 ton biber ihraç ederek 493,1 milyon ABD doları gelir elde etti. Bu, hacim olarak %13,2 daha az, ancak geçen yılın aynı dönemine göre değer olarak %20,6 daha fazla. Siyah biberin ortalama ihracat fiyatı ton başına 4.197 ABD doları, beyaz biberinki ise ton başına 5.804 ABD dolarıdır. Bu rakamlar, 2023'ün aynı dönemine göre sırasıyla 754 ABD doları ve 849 ABD doları daha yüksektir. Bu dönemde ABD, 30.466 ton ithalatla Vietnam baharatlarının en büyük ithalatçısı oldu ve toplam hacmin %26,6'sını oluşturdu. Geçen yıla kıyasla %44,4'lük bir artış sağlandı. İtalya, Almanya ve Rusya gibi pazarlara yapılan ihracat da önemli ölçüde arttı.",
           "offerRussia": "Rusya için ticari teklif",
           "offerTurkey": "Türkiye için ticari teklif"
+        },
+        "exportVietnam": {
+          "coffee": "Kahve",
+          "spices": "Baharatlar",
+          "driedFruits": "Kurutulmuş meyveler",
+          "nuts": "Fındık",
+          "coconut": "Hindistan cevizi"
         }
       }
     },
